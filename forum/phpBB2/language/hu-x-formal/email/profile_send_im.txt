@@ -1,0 +1,13 @@
+
+Kedves {TO_USERNAME}!
+
+A következő üzenetet a "{SITENAME}" fórumról {FROM_USERNAME} küldte önnek. Amennyiben ez az üzenet kéretlen, illetve az ön számára sértő vagy egyéb támadó megjegyzést tartalmaz, kérjük, lépjen kapcsolatba az oldal adminisztrátorával a következő e-mail címen:
+
+{BOARD_CONTACT}
+
+A levélhez mellékelje ezt az üzenetet. Kérjük, vegye figyelembe, hogy az üzenet küldőjének a fórum IM azonosítója került beállításra.
+
+Az üzenet a következő:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}

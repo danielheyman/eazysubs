@@ -1,0 +1,18 @@
+Subject: Dobrodošao/la na "{SITENAME}"
+
+Poštovanje,
+
+postavke tvojeg korisničkog računa su sljedeće:
+
+----------------------------
+Korisničko ime: {USERNAME}
+URL foruma: {U_BOARD}
+----------------------------
+
+Tvoj korisnički račun je trenutno neaktivan i mora biti odobren od strane administratora/ice prije nego se možeš prijaviti. Nova e-mail poruka će biti poslana nakon što račun bude odobren.
+
+Tvoja zaporka je sigurno pohranjena unutar naše baze podataka i ne može biti pregledana. U slučaju da zaboraviš zaporku, možeš je resetirati pomoću e-mail adrese povezane sa tvojim korisničkim računom.
+
+Hvala ti što si se registrirao/la.
+
+{EMAIL_SIG}

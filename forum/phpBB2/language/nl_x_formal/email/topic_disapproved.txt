@@ -1,0 +1,12 @@
+Subject: Onderwerp afgekeurd - "{TOPIC_TITLE}"
+
+Hallo {USERNAME},
+
+U ontvangt deze notificatie omdat uw onderwerp "{TOPIC_TITLE}" op "{SITENAME}", afgekeurd is door een moderator of beheerder.
+
+De volgende reden voor de afkeuring was gegeven:
+
+{REASON}
+
+
+{EMAIL_SIG}

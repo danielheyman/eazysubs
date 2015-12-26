@@ -1,0 +1,13 @@
+
+Hallo {TO_USERNAME},
+
+Het volgende bericht is verzonden naar uw account op op "{SITENAME}" door {FROM_USERNAME}. Als dit bericht ongewenste of aanstootgevende inhoud bevat, neem dan contact op met de beheerder van het forum op het volgende adres:
+
+{BOARD_CONTACT}
+
+Voeg het onderstaande bericht in zijn geheel bij (met name de headers). Vergeet niet dat het antwoordadres van dit e-mailbericht is ingesteld naar dat van {FROM_USERNAME}.
+
+Bericht dat naar u verstuurd is:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}

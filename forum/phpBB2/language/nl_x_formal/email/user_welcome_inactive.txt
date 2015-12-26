@@ -1,0 +1,21 @@
+Subject: Welkom bij "{SITENAME}"
+
+{WELCOME_MSG}
+
+Bewaar dit e-mailbericht goed voor uw administratie. Uw accountgegevens zijn als volgt:
+
+----------------------------
+Gebruikersnaam: {USERNAME}
+
+Forumadres: {U_BOARD}
+----------------------------
+
+Bezoek de volgende link om uw account te activeren:
+
+{U_ACTIVATE}
+
+Uw wachtwoord is veilig opgeslagen in onze database en kan niet worden terug achterhaald. Mocht u uw wachtwoord toch vergeten zijn, dan kunt u een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken, dat geassocieerd is met uw account.
+
+Bedankt voor uw registratie.
+
+{EMAIL_SIG}

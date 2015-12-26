@@ -1,0 +1,11 @@
+Subject: Korisnički račun aktiviran
+
+Poštovanje {USERNAME},
+
+tvoj korisnički račun na forumu "{SITENAME}" je aktiviran.
+
+Možeš se prijaviti koristeći korisničko ime koje si dobio/la e-mailom.
+
+Tvoja zaporka je sigurno pohranjena unutar naše baze podataka i ne može biti pregledana. U slučaju da zaboraviš zaporku, možeš je resetirati pomoću e-mail adrese povezane sa tvojim korisničkim računom.
+
+{EMAIL_SIG}

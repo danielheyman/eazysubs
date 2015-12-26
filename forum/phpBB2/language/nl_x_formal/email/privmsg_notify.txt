@@ -1,0 +1,15 @@
+Subject: Er is een nieuw privébericht
+
+Hallo {USERNAME},
+
+U heeft een nieuw privébericht ontvangen van "{AUTHOR_NAME}" op "{SITENAME}" met het volgende onderwerp:
+
+{SUBJECT}
+
+U kunt uw nieuwe privébericht bekijken door te klikken op de volgende link:
+
+{U_INBOX}
+
+U heeft ingesteld dat u een notificatie wilt ontvangen, vergeet niet dat u altijd kunt kiezen of u notificaties wilt ontvangen bij nieuwe privéberichten door de juiste instellingen te wijzigen in uw profiel.
+
+{EMAIL_SIG}

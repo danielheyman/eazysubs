@@ -1,0 +1,12 @@
+Subject: Neaktivan korisnički račun
+
+Poštovanje {USERNAME},
+
+ova poruka je podsjetnik da je tvoj korisnički račun na forumu "{SITENAME}", otvoren dana {REGISTER_DATE} još uvijek neaktivan.
+
+Ukoliko želiš aktivirati taj korisnički račun, možeš to napraviti pomoću slijedećeg linka: {U_ACTIVATE}.
+
+Hvala ti što si se registrirao/la.
+Radujemo se tvojem sudjelovanju na "{SITENAME}".
+
+{EMAIL_SIG}

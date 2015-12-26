@@ -1,0 +1,19 @@
+Subject: Notificatie over nieuwe reactie - "{FORUM_NAME}"
+
+Hallo {USERNAME},
+
+U ontvangt deze notificatie om u bent geabonneerd op het forum "{FORUM_NAME}" op "{SITENAME}". Dit forum heeft een nieuwe reactie ontvangen in het onderwerp "{TOPIC_TITLE}" sinds uw laatste bezoek. U kunt de volgende link gebruiken om de laatst ongelezen reactie te bekijken, er zullen geen notificaties meer gestuurd worden totdat u het onderwerp heeft bezocht.
+
+{U_NEWEST_POST}
+
+Als u het onderwerp wilt bekijken, klik dan op de volgende link:
+{U_TOPIC}
+
+Als u het forum wilt bekijken, klik dan op de volgende link:
+{U_FORUM}
+
+Als u niet langer meer geabonneerd wilt zijn op dit forum, kunt u of klikken op de link "Abonnement op dit forum stopzetten", die u kunt vinden in het forum hierboven of door op de volgende link te klikken:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

@@ -1,0 +1,3 @@
+﻿{MESSAGE}
+
+{EMAIL_SIG}

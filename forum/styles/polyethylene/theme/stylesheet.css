@@ -1,0 +1,592 @@
+* {
+margin: 0;
+padding: 0;
+}
+html {
+font-size: 100%;
+}
+body {
+font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+color: #1c1c1c;
+background: #33332f;
+font-size: 62.5%;
+margin: 0;
+text-align: center;
+}
+.left {
+float: left;
+clear: both;
+width: 50%;
+text-align: left;
+}
+.right {
+float: right;
+width: 50%;
+text-align: right;
+}
+#kontener {
+width: 808px;
+margin: auto;
+text-align: left;
+}
+#header {
+width: 778px;
+padding: 122px 15px 0 15px;
+height: 80px;
+margin: auto;
+background: url('./images/top.png') no-repeat bottom center;
+text-align: left;
+display: block;
+}
+#content {
+width: 748px;
+padding: 4px 30px 0 30px;
+margin: auto;
+text-align: left;
+background: url('./images/middle.png') repeat-y center;
+}
+#stopka {
+width: 748px;
+padding: 30px 30px 30px 30px;
+margin: auto;
+height: 30px;
+text-align: center;
+background: url('./images/bottom.png') no-repeat center top;
+display: block;
+color: #5f5f5f;
+}
+#stopka a {
+color: #ccccd0;
+}
+#menu a {
+color: #343434;
+text-transform: uppercase;
+margin: 0;
+padding: 0;
+font-family: Arial, "Trebuchet MS";
+font-size: 11px;
+font-weight: bold;
+}
+#menu a:hover {
+color: #069;
+text-decoration: none;
+border-bottom: 1px solid #cecece;
+}
+#datebar {
+margin: 10px 25px 0 25px;
+}
+#findbar {
+width: 100%;
+margin: 0;
+padding: 0;
+border: 0;
+}
+.forumrules {
+background-color: #f9cc79;
+border-width: 1px;
+border-style: solid;
+border-color: #bb9860;
+padding: 4px;
+font-weight: normal;
+font-size: 1.1em;
+font-family: "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+}
+.forumrules h3 {
+color: red;
+}
+h1 {
+color: black;
+font-weight: bold;
+font-size: 1.8em;
+text-decoration: none;
+}
+h2 {
+font-weight: bold;
+font-size: 1.8em;
+text-decoration: none;
+line-height: 120%;
+}
+h3 {
+font-size: 1.3em;
+font-weight: bold;
+line-height: 120%;
+}
+h4 {
+margin: 0;
+font-size: 1.1em;
+font-weight: bold;
+}
+p {
+font-size: 1.1em;
+}
+p.moderators {
+margin: 0;
+float: left;
+color: black;
+font-weight: bold;
+}
+.rtl p.moderators {
+float: right;
+}
+p.linkmcp {
+margin: 0;
+float: right;
+white-space: nowrap;
+}
+.rtl p.linkmcp {
+float: left;
+}
+p.breadcrumbs {
+margin: 5px 0 0 0;
+height: 23px;
+padding: 6px 10px 0 10px;
+color: black;
+font-weight: bold;
+white-space: normal;
+font-size: 11px;
+background: url('./images/breadbg.png') no-repeat center;
+
+}
+.rtl p.breadcrumbs {
+float: right;
+}
+p.datetime {
+margin: 0;
+float: right;
+white-space: nowrap;
+font-size: 1em;
+}
+.rtl p.datetime {
+float: left;
+}
+p.searchbar {
+padding: 2px 0;
+white-space: nowrap;
+}
+p.searchbarreg {
+margin: 0;
+float: right;
+white-space: nowrap;
+}
+.rtl p.searchbarreg {
+float: left;
+}
+p.forumdesc {
+padding-bottom: 4px;
+}
+p.topicauthor {
+margin: 1px 0;
+}
+p.topicdetails {
+margin: 1px 0;
+}
+.postreported, .postreported a:visited, .postreported a:hover, .postreported a:link, .postreported a:active {
+margin: 1px 0;
+color: red;
+font-weight: bold;
+}
+.postapprove, .postapprove a:visited, .postapprove a:hover, .postapprove a:link, .postapprove a:active {
+color: green;
+font-weight: bold;
+}
+.postapprove img, .postreported img {
+vertical-align: bottom;
+}
+.postauthor {
+color: #000000;
+}
+.postdetails {
+color: #000000;
+}
+.postbody {
+font-size: 1.2em;
+line-height: 170%;
+font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+}
+.postbody li, ol, ul {
+margin: 0 0 0 1.5em;
+}
+.rtl .postbody li, .rtl ol, .rtl ul {
+margin: 0 1.5em 0 0;
+}
+.posthilit {
+background-color: yellow;
+}
+.nav {
+margin: 0;
+color: black;
+font-weight: bold;
+}
+.pagination {
+padding: 4px;
+color: black;
+font-size: 1em;
+font-weight: bold;
+}
+.gen {
+margin: 1px 1px;
+font-size: 1.2em;
+}
+.genmed {
+margin: 1px 1px;
+font-size: 1.1em;
+}
+.gensmall {
+margin: 1px 1px;
+font-size: 1em;
+}
+.titles {
+font-weight: bold;
+font-size: 1.3em;
+text-decoration: none;
+}
+.error {
+color: red;
+}
+th {
+color: #fff;
+font-size: 1.1em;
+font-weight: bold;
+background-color: #343434;
+background-image: url('./images/cellpic3.gif');
+white-space: nowrap;
+height: 27px;
+padding: 0 10px 0 10px;
+}
+td {
+padding: 2px;
+}
+td.profile {
+padding: 4px;
+}
+.tablebg {
+background: #d7d7d7;
+}
+.catdiv {
+height: 28px;
+margin: 0;
+padding: 0;
+border: 0;
+background: white url('./images/cellpic2.jpg') repeat-y scroll top left;
+}
+.rtl .catdiv {
+background: white url('./images/cellpic2_rtl.jpg') repeat-y scroll top right;
+}
+.cat {
+color: #343434;
+font-size: 11px;
+height: 25px;
+margin: 0;
+padding: 0 10px 0 10px;
+border: 0;
+background-color: #c7d0d7;
+background-image: url('./images/cellpic1.gif');
+text-indent: 4px;
+}
+.row1 {
+background: #f1f1f1 url('./images/row.png') repeat-x top;
+padding: 4px;
+font-size: 11px;
+}
+
+tr.efekt:hover .row1 {
+background-color: #e4f6ff;
+color: #012538;
+}
+tr.efekt:hover .row2 {
+background-color: #d0efff;
+color: #012538;
+}
+tr.efekt:hover a {
+color: #006699;
+}
+.row2 {
+background: #e7e7e7 url('./images/row.png') repeat-x top;
+padding: 4px;
+font-size: 11px;
+}
+.spacer {
+background: url('./images/cellpic1.gif') top;
+}
+hr {
+height: 1px;
+border-width: 0;
+background-color: #d1d7dc;
+color: #d1d7dc;
+}
+.legend {
+text-align: center;
+margin: 0 auto;
+}
+a:link, a:active, a:visited {
+color: #343434;
+text-decoration: none;
+}
+a:hover {
+color: #000;
+text-decoration: underline;
+}
+a.forumlink {
+color: #343434;
+font-weight: bold;
+font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+font-size: 1.2em;
+}
+a.topictitle {
+margin: 1px 0;
+font-family: "Lucida Grande", Helvetica, Arial, sans-serif;
+font-weight: bold;
+font-size: 1.2em;
+}
+th a, th a:visited {
+color: #fff !important ;
+text-decoration: none;
+}
+th a:hover {
+text-decoration: underline;
+}
+form {
+margin: 0;
+padding: 0;
+border: 0;
+}
+input {
+color: #333333;
+font-family: "Lucida Grande", Verdana, Helvetica, sans-serif;
+font-size: 1.1em;
+font-weight: normal;
+padding: 1px;
+border: 1px solid #a9b8c2;
+background-color: #fafafa;
+}
+textarea {
+background-color: #fafafa;
+color: #333333;
+font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+font-size: 1.0em;
+line-height: 1.4em;
+font-weight: normal;
+border: 1px solid #a9b8c2;
+padding: 2px;
+}
+select {
+color: #333333;
+background-color: #fafafa;
+font-family: "Lucida Grande", Verdana, Helvetica, sans-serif;
+font-size: 1.1em;
+font-weight: normal;
+border: 1px solid #a9b8c2;
+padding: 1px;
+}
+option {
+padding: 0 1em 0 0;
+}
+option.disabled-option {
+color: GrayText;
+}
+.rtl option {
+padding: 0 0 0 1em;
+}
+input.radio {
+border: none;
+background-color: transparent;
+}
+.post {
+background-color: white;
+border-style: solid;
+border-width: 1px;
+}
+.btnbbcode {
+color: #000000;
+font-weight: normal;
+font-size: 1.1em;
+font-family: "Lucida Grande", Verdana, Helvetica, sans-serif;
+background-color: #efefef;
+border: 1px solid #666666;
+}
+.btnmain, .btnlite {
+font-weight: bold;
+border: 1px solid #a9b8c2;
+cursor: pointer;
+padding: 1px 5px;
+font-size: 1.1em;
+background: #f1f1f1 url('./images/row.png') repeat-x top;
+}
+.btnmain:hover, .btnlite:hover {
+border-color: #6bcdff;
+background: #e4f6ff url('./images/row.png') repeat-x top;
+color: #012538;
+}
+.btnfile {
+font-weight: normal;
+background-color: #ececec;
+border: 1px solid #a9b8c2;
+padding: 1px 5px;
+font-size: 1.1em;
+}
+.helpline {
+background-color: #dee3e7;
+border-style: none;
+}
+.quotetitle, .attachtitle {
+margin: 10px 5px 0 5px;
+padding: 2px 4px;
+color: #ffffff;
+background: #0081c2 url('./images/row.png') repeat-x top;
+font-size: 0.8em;
+border-color: #0081c2;
+border-width: 1px 1px 0 1px;
+border-style: solid;
+}
+.quotetitle .quotetitle {
+font-size: 1em;
+}
+.quotecontent, .attachcontent {
+margin: 0 5px 10px 5px;
+padding: 5px;
+border-color: #0081c2;
+border-width: 0 1px 1px 1px;
+border-style: solid;
+font-weight: normal;
+font-size: 1em;
+line-height: 1.4em;
+font-family: "Lucida Grande", "Trebuchet MS", Helvetica, Arial, sans-serif;
+background: #fafafa url('./images/row.png') repeat-x top;
+color: #4b5c77;
+font-style: italic;
+}
+.attachcontent {
+font-size: 0.85em;
+}
+.codetitle {
+margin: 10px 5px 0 5px;
+padding: 2px 4px;
+color: #ffffff;
+background: #727272 url('./images/row.png') repeat-x top;
+font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+font-size: 0.8em;
+border-color: #727272;
+border-width: 1px 1px 0 1px;
+border-style: solid;
+}
+.codecontent {
+direction: ltr;
+margin: 0 5px 10px 5px;
+padding: 5px;
+border-color: #727272;
+border-width: 0 1px 1px 1px;
+border-style: solid;
+font-weight: normal;
+color: #032f00;
+font-size: 0.95em;
+font-family: Monaco, 'Courier New', monospace;
+background: #fafafa url('./images/row.png') repeat-x top;
+}
+.syntaxbg {
+color: #ffffff;
+}
+.syntaxcomment {
+color: #ff8000;
+}
+.syntaxdefault {
+color: #0000bb;
+}
+.syntaxhtml {
+color: #000000;
+}
+.syntaxkeyword {
+color: #007700;
+}
+.syntaxstring {
+color: #dd0000;
+}
+.pm_marked_colour {
+background-color: #000000;
+}
+.pm_replied_colour {
+background-color: #a9b8c2;
+}
+.pm_friend_colour {
+background-color: #007700;
+}
+.pm_foe_colour {
+background-color: #dd0000;
+}
+img {
+border: none;
+}
+.sep {
+color: black;
+background-color: #ffa34f;
+}
+table.colortable td {
+padding: 0;
+}
+pre {
+font-size: 1.1em;
+font-family: Monaco, 'Courier New', monospace;
+}
+.nowrap {
+white-space: nowrap;
+}
+.username-coloured {
+font-weight: bold;
+}
+h4.notable {
+color: #343434;
+text-transform: uppercase;
+margin: 15px 0 5px 0;
+border-bottom: 1px solid #cecece;
+font-size: 11px;
+font-family: Arial, "Trebuchet MS";
+}
+p.notable {
+line-height: 150%;
+font-size: 11px;
+font-family: "Trebuchet MS";
+}
+ul.legenda {
+margin: 0;
+padding: 0;
+height: 40px;
+}
+ul.legenda li {
+list-style-type: none;
+float: left;
+margin-right: 15px;
+text-align: center;
+}
+#legendaforum {
+border: 0;
+width: 100%;
+}
+.minipostimg img {
+padding: 0 5px 0 0;
+margin: 3px 0 -3px 0;
+}
+.lastpost img {
+margin: 3px 0 -3px 0;
+}
+#theme {
+font-size: 11px;
+color: gray;
+}
+#theme i {
+color: silver;
+font-weight: bold;
+font-style: normal;
+}
+#theme strong {
+color: #00aaff;
+}
+#theme a {
+font-weight: bold;
+color: silver;
+}
+.both {
+clear: both;
+}
+
+body.simple{
+    background-color: #ffffff;
+}

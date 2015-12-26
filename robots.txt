@@ -1,0 +1,14 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: *
+Disallow: /awstats/
+Disallow: /banners/
+Disallow: /cgi-bin/
+Disallow: /chat/
+Disallow: /cp/
+Disallow: /images/
+Disallow: /src/
+Disallow: /webalizer/
+Disallow: /Zend/
+Disallow: /tmp/
+Sitemap: http://www.eazysubs.com/sitemap.gz
+# WebMatrix 1.0

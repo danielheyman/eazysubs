@@ -1,0 +1,20 @@
+Subject: Notificatie over nieuwe reactie - "{TOPIC_TITLE}"
+
+Hallo {USERNAME},
+
+U ontvangt deze notificatie omdat u geabonneerd bent op het onderwerp "{TOPIC_TITLE}" op "{SITENAME}". Dit onderwerp heeft een nieuwe reactie ontvangen sinds uw laatste bezoek. U kunt de volgende link gebruiken om de reacties te bekijken die er zijn gemaakt, er zullen geen notificaties meer gestuurd worden totdat u het onderwerp heeft bezocht.
+
+Als u het nieuwste bericht, die gemaakt is sinds uw laatste bezoek, wilt bekijken, klik dan op de volgende link:
+{U_NEWEST_POST}
+
+Als u het onderwerp wilt bekijken, klik dan op de volgende link:
+{U_TOPIC}
+
+Als u het forum wilt bekijken, klik dan op de volgende link:
+{U_FORUM}
+
+Als u niet langer meer geabonneerd wilt zijn op dit onderwerp, dan kunt u of klikken op de link "Abonnement op dit onderwerp stopzetten", die u onderaan kunt vinden in het onderwerp hierboven of door op de volgende link te klikken:
+
+{U_STOP_WATCHING_TOPIC}
+
+{EMAIL_SIG}

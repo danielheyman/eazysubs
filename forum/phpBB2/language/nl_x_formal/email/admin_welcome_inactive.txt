@@ -1,0 +1,19 @@
+Subject: Welkom op "{SITENAME}"
+
+{WELCOME_MSG}
+
+Bewaar dit e-mailbericht goed voor uw administratie. Uw accountgegevens zijn als volgt:
+
+----------------------------
+Gebruikersnaam: {USERNAME}
+
+Forumadres: {U_BOARD}
+----------------------------
+
+Uw account is momenteel inactief en moet worden goedgekeurd door een beheerder voordat u zich kunt aanmelden. Een andere e-mail zal worden verstuurd wanneer dit is gebeurd.
+
+Uw wachtwoord is veilig opgeslagen in onze database en kan niet worden terug achterhaald. Mocht u uw wachtwoord toch vergeten zijn, dan kunt u een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken, dat geassocieerd is met uw account.
+
+Bedankt voor uw registratie.
+
+{EMAIL_SIG}

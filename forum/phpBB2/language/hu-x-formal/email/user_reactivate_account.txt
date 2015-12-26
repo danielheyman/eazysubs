@@ -1,0 +1,19 @@
+Subject: Aktiválja újra az azonosítóját az "{SITENAME}" oldalon!
+
+A fórum egyik adminisztrátora újraaktiválásra kötelezte az ön azonosítóját. Az azonosítója jelenleg inaktív.
+Az azonosítója újraaktiválásához kövesse a következő lépéseket.
+
+Kérjük, tartsa meg ezt az üzenetet. Az azonosítójának adatai a következőek:
+
+----------------------------
+Felhasználónév: {USERNAME}
+----------------------------
+
+A jelszava biztonságosan került eltárolásra az adatbázisunkban, így nincs mód a kiderítésére. Ha esetleg mégis elfelejtené, akkor az azonosítójához társított e-mail cím segítségével igényelhet egy újat.
+
+Az azonosítója újraaktiválásához kattintson az alábbi linkre:
+
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

@@ -1,0 +1,10 @@
+Subject: Csatlakozási kérelem az ön csoportjához
+
+Kedves {USERNAME}!
+
+"{REQUEST_USERNAME}" jelezte, hogy csatlakozni szeretne a "{SITENAME}" oldalon a "{GROUP_NAME}" csoporthoz, melynek ön a vezetője.
+A csatlakozási kérelem elfogadásához vagy elutasításához látogasson el a következő oldalra:
+
+{U_PENDING}
+
+{EMAIL_SIG}

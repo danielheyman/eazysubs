@@ -1,0 +1,8 @@
+Subject: Jelentés lezárva - "{PM_SUBJECT}"
+
+Kedves {USERNAME}!
+
+Ön ezt az üzenetet azért kapja, mert a "{SITENAME}" oldalon a "{PM_SUBJECT}" privát üzenettel kapcsolatos jelentését egy moderátor vagy adminisztrátor áttekintette. A jelentés lezárásra került. Amennyiben további kérdései vannak, lépjen kapcsolatba privát üzenetben a jelentés lezárójával: {CLOSER_NAME}.
+
+
+{EMAIL_SIG}

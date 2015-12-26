@@ -1,0 +1,13 @@
+Subject: Notificatie over nieuw onderwerp - "{FORUM_NAME}"
+
+Hallo {USERNAME},
+
+U ontvangt deze notificatie omdat u geabonneerd bent op het forum "{FORUM_NAME}" op "{SITENAME}". Dit forum heeft een nieuw onderwerp ontvangen in het onderwerp "{TOPIC_TITLE}" sinds uw laatste bezoek. U kunt de volgende link gebruiken om het forum te bekijken, er zullen geen notificaties meer gestuurd worden totdat u het forum heeft bezocht.
+
+{U_FORUM}
+
+Als u niet langer meer geabonneerd wilt zijn op dit forum, kunt u of klikken op de link "Abonnement op dit forum stopzetten", die u kunt vinden in het forum hierboven of door op de volgende link te klikken:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

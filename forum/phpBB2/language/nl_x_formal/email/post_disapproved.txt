@@ -1,0 +1,12 @@
+Subject: Bericht afgekeurd - "{POST_SUBJECT}"
+
+Hallo {USERNAME},
+
+U ontvangt deze notificatie omdat uw bericht "{POST_SUBJECT}" op "{SITENAME}", afgekeurd is door een moderator of beheerder.
+
+De volgende reden voor de afkeuring was gegeven:
+
+{REASON}
+
+
+{EMAIL_SIG}

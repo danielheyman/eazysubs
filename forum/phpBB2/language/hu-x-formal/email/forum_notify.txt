@@ -1,0 +1,19 @@
+Subject: Fórumfigyelés értesítés - "{FORUM_NAME}"
+
+Kedves {USERNAME}!
+
+Ön ezt az e-mailt azért kapja, mert a "{SITENAME}" oldalon, a "{FORUM_NAME}" fórum figyelését kérte. Ebbe a fórumba, legutóbbi látogatása óta, új hozzászólás érkezett a "{TOPIC_TITLE}" témába. A következő linkre kattintva eljuthat a legutóbbi olvasatlan válaszhoz, mindazonáltal újabb értesítést nem fog kapni, míg meg nem látogatja a fórumot.
+
+{U_NEWEST_POST}
+
+A téma megtekintéséhez kattintson a következő linkre:
+{U_TOPIC}
+
+A fórum megtekintéséhez kattintson a következő linkre:
+{U_FORUM}
+
+Amennyiben ön a továbbiakban nem kívánja figyelni a fórumot, kattintson a "Leiratkozás a fórumról" linkre, melyet a fenti oldalon talál, vagy egyszerűen kattintson a következő linkre:
+
+{U_STOP_WATCHING_FORUM}
+
+{EMAIL_SIG}

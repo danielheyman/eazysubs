@@ -1,0 +1,19 @@
+Subject: phpBB geïnstalleerd
+
+Gefeliciteerd,
+
+U heeft succesvol phpBB geïnstalleerd op uw server.
+
+Bewaar deze e-mail goed voor ue administratie, het bevat belangrijke informatie over uw installatie. Uw wachtwoord is veilig opgeslagen in onze database en kan niet worden terug achterhaald. Mocht u uw wachtwoord toch vergeten zijn, dan kunt u een nieuw wachtwoord aanvragen door het e-mailadres te gebruiken dat geassocieerd is met uw account.
+
+----------------------------
+Gebruikersnaam: {USERNAME}
+
+Forumadres: {U_BOARD}
+----------------------------
+
+Belangrijke informatie over de phpBB-software kunt u vinden in de docs-map van uw installatie en op de supportpagina van phpBB.com - http://www.phpbb.com/support/ of op de Nederlandstalige phpBB website http://www.phpBBservice.nl
+
+In een poging om uw forum veilig te houden, raden wij u ten strengste aan dat u up-to-date blijft met de huidige software. Voor uw gemak is er ook een nieuwsbrief beschikbaar op de pagina hierboven.
+
+{EMAIL_SIG}

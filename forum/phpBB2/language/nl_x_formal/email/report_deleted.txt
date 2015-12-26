@@ -1,0 +1,8 @@
+Subject: Melding verwijderd - "{POST_SUBJECT}"
+
+Hallo {USERNAME},
+
+U ontvangt deze notificatie omdat de melding die u had ingevuld over het bericht "{POST_SUBJECT}" in "{TOPIC_TITLE}" op "{SITENAME}", verwijderd is door een moderator of beheerder.
+
+
+{EMAIL_SIG}

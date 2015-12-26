@@ -1,0 +1,8 @@
+Subject: Jelentés törölve - "{PM_SUBJECT}"
+
+Kedves {USERNAME}!
+
+Ön ezt az üzenetet azért kapja, mert a "{SITENAME}" oldalon a "{PM_SUBJECT}" privát üzenettel kapcsolatos jelentését egy moderátor vagy adminisztrátor törölte.
+
+
+{EMAIL_SIG}

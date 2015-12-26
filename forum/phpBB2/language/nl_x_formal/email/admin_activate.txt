@@ -1,0 +1,14 @@
+Subject: Gebruikersaccount activeren
+
+Hallo,
+
+De account "{USERNAME}" is gedeactiveerd of pas aangemaakt, u zult de gegevens moeten controleren van deze gebruiker (indien nodig) en de aanvraag afhandelen.
+
+Gebruik deze link om het profiel van de gebruiker te bekijken:
+{U_USER_DETAILS}
+
+Gebruik deze link om de account te activeren:
+{U_ACTIVATE}
+
+
+{EMAIL_SIG}

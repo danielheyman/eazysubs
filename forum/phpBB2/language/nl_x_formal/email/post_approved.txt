@@ -1,0 +1,14 @@
+Subject: Bericht goedgekeurd - "{POST_SUBJECT}"
+
+Hallo {USERNAME},
+
+U ontvangt deze notificatie omdat uw bericht "{POST_SUBJECT}" op "{SITENAME}" goedgekeurd is door een moderator of beheerder.
+
+Als u het bericht wilt bekijken, klik dan op de volgende link:
+{U_VIEW_POST}
+
+Als u het onderwerp wilt bekijken, klik dan op de volgende link:
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}

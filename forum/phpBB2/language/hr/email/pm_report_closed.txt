@@ -1,0 +1,8 @@
+Naslov: Prijava zatvorena - "{PM_SUBJECT}"
+
+Pozdrav {USERNAME},
+
+Primio/la si ovu obavijest zato što je prijava koju si poslao/la u vezi privatne poruke naslova "{PM_SUBJECT}" na "{SITENAME}" pregledana od strane moderatora/ice ili administratora/ice. Prijava je zatvorena. Ukoliko imaš dodatnih pitanja, molimo te da kontaktiraš {CLOSER_NAME} putem privatne poruke.
+
+
+{EMAIL_SIG}

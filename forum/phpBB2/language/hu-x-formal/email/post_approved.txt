@@ -1,0 +1,14 @@
+Subject: A hozzászólása jóváhagyásra került - "{POST_SUBJECT}"
+
+Kedves {USERNAME}!
+
+Ön ezt az üzenetet azért kapja, mert a "{POST_SUBJECT}" témájú hozzászólása a "{SITENAME}" oldalon jóváhagyásra került egy adminisztrátor vagy egy moderátor által.
+
+Amennyiben meg szeretné tekinteni a hozzászólást, kattintson a következő linkre:
+{U_VIEW_POST}
+
+Amennyiben meg szeretné tekinteni a témát, melyhez hozzászólt, kattintson a következő linkre:
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}

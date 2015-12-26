@@ -1,0 +1,20 @@
+Subject: Dobrodošao/la na "{SITENAME}"
+
+Poštovanje,
+
+postavke tvojeg korisničkog računa su sljedeće:
+
+----------------------------
+Korisničko ime: {USERNAME}
+URL foruma: {U_BOARD}
+----------------------------
+
+Molimo te da posjetiš slijedeći link kako bi aktivirao/la tvoj korisnički račun:
+
+{U_ACTIVATE}.
+
+Tvoja zaporka je sigurno pohranjena unutar naše baze podataka i ne može biti pregledana. U slučaju da zaboraviš zaporku, možeš je resetirati pomoću e-mail adrese povezane sa tvojim korisničkim računom.
+
+Hvala ti što si se registrirao/la.
+
+{EMAIL_SIG}

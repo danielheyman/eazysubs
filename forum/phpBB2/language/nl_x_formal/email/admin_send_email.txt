@@ -1,0 +1,14 @@
+
+Het volgende bericht is verzonden naar u door een beheerder van "{SITENAME}". Als dit bericht ongewenste of aanstootgevende inhoud bevat neem dan contact op met de beheerder van het forum op het volgende adres:
+
+{CONTACT_EMAIL}
+
+Voeg het onderstaande bericht in zijn geheel bij (met name de headers). 
+
+Bericht dat naar jouw verstuurt is:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+{MESSAGE}
+
+
+{EMAIL_SIG}

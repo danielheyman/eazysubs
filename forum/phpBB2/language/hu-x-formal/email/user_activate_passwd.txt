@@ -1,0 +1,17 @@
+Subject: Új jelszó aktiválása
+
+Kedves {USERNAME}!
+
+Ezt az üzenetet ön azért kapja, mert ön (vagy valaki az ön nevében) új jelszót kért a "{SITENAME}" oldalon levő azonosítójához. Ha nem ön kérte ezt az üzenetet, úgy hagyja figyelmen kívül. Amennyiben továbbra is hasonlókat kap, vegye fel a kapcsolatot az oldal adminisztrátorával.
+
+Ahhoz, hogy használni tudja az új jelszót, aktiválnia kell, ehhez kattintson az alábbi linkre.
+
+{U_ACTIVATE}
+
+Ha ez sikeres volt, az alábbi jelszóval tud majd belépni:
+
+Jelszó: {PASSWORD}
+
+Természetesen ezt a jelszót meg tudja változtatni a profiljában. Amennyiben bármilyen problémája adódik, vegye fel a kapcsolatot az oldal adminisztrátorával.
+
+{EMAIL_SIG}

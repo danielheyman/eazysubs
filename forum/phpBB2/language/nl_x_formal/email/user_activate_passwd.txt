@@ -1,0 +1,17 @@
+Subject: Nieuw wachtwoord activeren
+
+Hallo {USERNAME},
+
+U ontvangt deze notificatie omdat u (of iemand die zich voordeed als u) een nieuw wachtwoord heeft aangevraagd voor uw account op "{SITENAME}". Als u deze notificatie niet heeft aangevraagd, negeer het dan. Als u deze notificaties blijft ontvangen, neem dan contact op met de forumbeheerder.
+
+Om het nieuwe wachtwoord te gebruiken moet u het eerst activeren. Om dit te doen moet u klikken op de link die hieronder is opgegeven.
+
+{U_ACTIVATE}
+
+Als het succesvol is, kunt u met het volgende wachtwoord aanmelden:
+
+Wachtwoord: {PASSWORD}
+
+U kunt ook dit wachtwoord zelf wijzigen via de profielpagina. Als er enige problemen zich voordoen, neem dan contact op met de forumbeheerder.
+
+{EMAIL_SIG}

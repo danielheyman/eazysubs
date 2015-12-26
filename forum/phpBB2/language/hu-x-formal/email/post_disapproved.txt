@@ -1,0 +1,12 @@
+Subject: A hozzászólása elutasításra került - "{POST_SUBJECT}"
+
+Kedves {USERNAME}!
+
+Ön ezt az üzenetet azért kapja, mert a "{POST_SUBJECT}" témájú hozzászólása a "{SITENAME}" oldalon elutasításra került egy adminisztrátor vagy egy moderátor által.
+
+Az elutasítás indoka a következő:
+
+{REASON}
+
+
+{EMAIL_SIG}

@@ -1,0 +1,19 @@
+Subject: Üdvözöljük a "{SITENAME}" fórumon!
+
+{WELCOME_MSG}
+
+Kérjük, tartsa meg ezt az üzenetet a továbbiakban. Az ön azonosítójának adatai a következőek:
+
+----------------------------
+Felhasználónév: {USERNAME}
+----------------------------
+
+A jelszava biztonságosan került eltárolásra az adatbázisunkban, így nincs mód a kiderítésére. Ha esetleg mégis elfelejtené, akkor az azonosítójához társított e-mail cím segítségével igényelhet egy újat.
+
+Az azonosítóját a következő linkre kattintva aktiválhatja:
+
+{U_ACTIVATE}
+
+Köszönjük, hogy regisztrált!
+
+{EMAIL_SIG}

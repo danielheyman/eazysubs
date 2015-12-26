@@ -1,0 +1,11 @@
+Subject: Téma jóváhagyva - "{TOPIC_TITLE}"
+
+Kedves {USERNAME}!
+
+Ezt az üzenetet ön azért kapja, mert a "{SITENAME}" oldalon az ön által nyitott "{TOPIC_TITLE} témát jóváhagyta egy moderátor vagy egy adminisztrátor.
+
+A témát megtekintheti a következő linkre kattintva:
+{U_VIEW_TOPIC}
+
+
+{EMAIL_SIG}
